@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1683448004 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\main.cpp
+	"menu.hpp"
+
+1683448045 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\menu.hpp
+	"btree.hpp"
+	"persona.hpp"
+
+1684794354 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\btree.hpp
+	<exception>
+	<string>
+	<fstream>
+
+1677227544 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\song.hpp
+	<iostream>
+	<string>
+	"name.hpp"
+
+1677226665 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\name.hpp
+	<string>
+
+1683888104 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\menu.cpp
+	<iostream>
+	<fstream>
+	"menu.hpp"
+
+1677228303 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\name.cpp
+	<iostream>
+	"name.hpp"
+
+1677306091 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\song.cpp
+	<iostream>
+	"song.hpp"
+
+1684794056 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\persona.cpp
+	<iostream>
+	"persona.hpp"
+
+1683882575 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\sem sol edii\act_7\actividad 7\persona.hpp
+	<iostream>
+	"name.hpp"
+
